@@ -60,7 +60,17 @@ career-profile:
 education:
     title: Education
     info:
-     
+      - degree: PhD in Crytography and Security
+         university: Indian Institute of Techology Kharagpur
+         time: 2017 - 2023
+         details: |
+           Describe your study here lorem ipsum dolor sit amet, consectetuer
+           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+           sociis natoque penatibus et magnis dis parturient montes, nascetur
+           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+           pretium quis, sem.
+             - Bullet point
+             - Bullet point
       - degree: M.Tech in Computer Science & Engineering
         university: University of Calcutta
         time: 2013 - 2015
