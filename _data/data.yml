@@ -61,7 +61,7 @@ education:
     title: Education
     info:
       - degree: PhD in Crytography and Security
-         university: IIT  Kharagpur
+         university: Indian Institute of Technology Kharagpur
          time: 2017 - 2023
          details: |
            Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -82,17 +82,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: B.Tech in in Computer Science & Engineering
-        university:  University of Calcutta
-        time: 2010 - 2013
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+     
 experiences:
     title: Experiences
     info:
