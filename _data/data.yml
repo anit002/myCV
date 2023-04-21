@@ -14,10 +14,10 @@ sidebar:
     # Sidebar links
     email: anit.ghosal@gmail.com
     phone: 91-9038499213
-    timezone: Indian Standard Time Timezone
+    timezone: Indian Standard Time 
     citizenship: Indian
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    linkedin: anitghosal
     xing: alandoe
     github: sharu725
     telegram: # add your nickname without '@' sign
@@ -32,13 +32,13 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Bengali
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
+        - idiom: Hindi
           level: Professional
 
     interests:
