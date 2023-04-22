@@ -52,9 +52,13 @@ career-profile:
     title: Career Profile
     summary: |
      I am a Researh Scholar at the Department of Computer Science and Engineering,
-     Indian Institute of Technology (IIT) Kharagpur under the supervison of
-     [Dr. Satrajit Ghosh](https://satcrypt.github.io/#) and Dr. Dipanwita
-     Roy Chowdhury. 
+     Indian Institute of Technology(IIT) Kharagpur under the supervison of
+     [Dr. Satrajit Ghosh](https://satcrypt.github.io/#) and [Dr. Dipanwita
+     Roy Chowdhury](http://www.facweb.iitkgp.ac.in/~drc/). My research interest 
+     focuses on many aspects of Cryptography and Security. Specifically, I am 
+     interested in designing of provably secure "Non-Malleable Codes", security 
+     analysis of "Symmetric Ciphers", "Private Set Intersection" and it's 
+     application in "Secure Multiparty Computation" etc.
       
 education:
     title: Education
