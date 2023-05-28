@@ -113,7 +113,7 @@ education:
 experiences:
     title: Experiences
     info:
-    - role: Senior Research Fellow
+      - role: Senior Research Fellow
         time: 2017 - 2024
         company: Indian Institute of Techology Kharagpur, Kharagpur, West Bengal
         details: |
