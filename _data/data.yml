@@ -207,7 +207,7 @@ oss:
 publications:
     title: Publications
     intro: |
-      The list of publications are described below.
+      The list of publications are described from most recent to older as follows:
     papers:
       - title: "A Better MixColumns Matrix to AES Against Differential Fault Analysis Attack"
         link: "https://link.springer.com/chapter/10.1007/978-981-99-2264-2_5"
