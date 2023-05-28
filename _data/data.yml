@@ -198,24 +198,34 @@ oss:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      The list of publications are described below.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "A Better MixColumns Matrix to AES Against Differential Fault Analysis Attack"
+        link: "https://link.springer.com/chapter/10.1007/978-981-99-2264-2_5"
+        authors: Anit Kumar Ghosal
+        conference: "International Conference on Applications and Techniques in Information Security, December 2022"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Continuously Non-malleable Codes from Authenticated Encryptions in 2-Split-State Model"
+        link: "https://link.springer.com/chapter/10.1007/978-981-99-2264-2_3"
+        authors:  Anit Kumar Ghosal, Dipanwita Roychowdhury 
+        conference: "International Conference on Applications and Techniques in Information Security, December 2022"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Non-malleable Codes from Authenticated Encryption in Split-State Model"
+        link: "https://link.springer.com/chapter/10.1007/978-981-99-2264-2_2"
+        authors: Anit Kumar Ghosal, Dipanwita Roychowdhury 
+        conference: "International Conference on Applications and Techniques in Information Security, December 2022"
+        
+      - title: "Strengthening the Security of AES Against Differential Fault Attack"
+        link: "https://link.springer.com/chapter/10.1007/978-3-031-23020-2_41"
+        authors: Anit Kumar Ghosal, Dipanwita Roychowdhury 
+        conference: "International Conference on Network and System Security, December 2022"
+        
+      - title: "Practical Non-malleable Codes from Symmetric-Key Primitives in 2-Split-State Model"
+        link: "https://link.springer.com/chapter/10.1007/978-3-031-20917-8_18"
+        authors: Anit Kumar Ghosal,Satrajit Ghosh, Dipanwita Roychowdhury 
+        conference: "International Conference on Provable Security, November 2022"
+        
+        
 
 skills:
     title: Skills &amp; Proficiency
