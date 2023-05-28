@@ -134,19 +134,19 @@ experiences:
             - Role & Responsibilities:-  Testing of L2-L3 protocol Protocols such as Intermediate Systems
               to Intermediate Systems routing protocol (IS-IS, IS-IS SRv6), Open Shortest Path Protocol(OSPF),
               Border Gateway Protocol (BGP), ISIS (with Segment Routing) with Cisco devices (switches and routers),
-              End-to-End traffic generation and its analysis.
+              End-to-End traffic generation and its analysis. My broad area of work lies on:
                 - BGP Flowspec
                 - L2, L3 VPN over Segment Routing 
-                - Reproduction of Customer issues.
+                - Reproduction of Customer issues
                 - TCL Automation 
                 - Preparing Test Plans
                 - Writing test script procedures for new features 
                 - Software Development Network (SDN)
-                - Scripting Language:- TCL-TK, Python, Perl.
+                - Scripting Language:- TCL-TK, Python, Perl
             - My Automation scripts are as follows:
-                - [TCL-TK Script ](https://www.openixia.com/apis/getFileContents//OpenIxiaGit/IxNetwork/LowLevelApi/NGPF/Tcl/SDN/ISIS-SRLG-LINK-PROTECTION/ISIS_SRLG_LINKPROTECTION_Sample_Script.tcl).
-                - [PYTHON Script ](https://openixia.amzn.keysight.com/apis/getFileContents//OpenIxiaGit/IxNetwork/LowLevelApi/NGPF/Python/SDN/ISIS-SR-MS/ISIS_SR_MS_Sample_Script.py).
-                - [PERL   Script ]( https://www.openixia.com/apis/getFileContents//OpenIxiaGit/IxNetwork/LowLevelApi/NGPF/Perl/SDN/ISIS-SR-MS/ISIS_SR_MS_Sample_Script.pl).
+                - [TCL-TK Script ](https://www.openixia.com/apis/getFileContents//OpenIxiaGit/IxNetwork/LowLevelApi/NGPF/Tcl/SDN/ISIS-SRLG-LINK-PROTECTION/ISIS_SRLG_LINKPROTECTION_Sample_Script.tcl)
+                - [PYTHON Script ](https://openixia.amzn.keysight.com/apis/getFileContents//OpenIxiaGit/IxNetwork/LowLevelApi/NGPF/Python/SDN/ISIS-SR-MS/ISIS_SR_MS_Sample_Script.py)
+                - [PERL   Script ]( https://www.openixia.com/apis/getFileContents//OpenIxiaGit/IxNetwork/LowLevelApi/NGPF/Perl/SDN/ISIS-SR-MS/ISIS_SR_MS_Sample_Script.pl)
       - role: M.Tech Internship
         time: 2014 - 2015
         company: Indian Statistical Institute, Kolkata
