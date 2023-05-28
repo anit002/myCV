@@ -58,7 +58,8 @@ career-profile:
      focuses on many aspects of Cryptography and Security. Specifically, I am 
      interested in designing of provably secure "Non-Malleable Codes", security 
      analysis of "Symmetric Ciphers", "Private Set Intersection" and it's 
-     application in "Secure Multiparty Computation" etc.
+     application in "Secure Multiparty Computation" etc. My unique orchid id is 
+     0000-0002-9328-3673.
       
 education:
     title: Education
@@ -112,21 +113,29 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Software Quality Assurance Engineer
+        time: 2015 - 2017
+        company: IXIA formerly known as Keysight Technologies, Kolkata, West Bengal
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Ixia is a leading provider of performance test systems for IP-based infrastructure
+          and services providing service to Equipment Manufacturers, Service Providers, Enterprises
+          and Governments to test their network equipments and existing network infrastructure on a
+          wide variety of parameters. It is Global Company having head office at CALABASAS, California
+          and development centers at Romania and Kolkata, India. 
+
+            - Team with which worked on:- IxNetwork Team (Research & Development) NTS Domain
+            - Role & Responsibilities:- • Testing of Protocols( L2-L3 protocol:) Intermediate Systems
+              to Intermediate Systems routing protocol (IS-IS, IS-IS SRv6), Open Shortest Path Protocol(OSPF),
+              Border Gateway Protocol(BGP), ISIS ( with Segment Routing) with Cisco devices(switches and routers),
+              end-to-end traffic generation and its analysis.
+                • BGP Flowspec
+                • L2, L3 VPN over Segment Routing 
+                • Reproduction of Customer issues.
+                • TCL Automation 
+                • Preparing Test Plans
+                • Writing test script procedures for new features 
+                • Software Development Network (SDN)
+                • Scripting Language :- TCL-TK, Python, Perl.
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
