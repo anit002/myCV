@@ -59,7 +59,7 @@ career-profile:
      interested in designing of provably secure "Non-Malleable Codes", security 
      analysis of "Symmetric Ciphers", "Private Set Intersection" and it's 
      application in "Secure Multiparty Computation" etc. My unique orchid id is 
-     [](https://orcid.org/0000-0002-9328-3673).
+     [0000-0002-9328-3673](https://orcid.org/0000-0002-9328-3673).
       
 education:
     title: Education
@@ -121,7 +121,7 @@ experiences:
           and services providing service to Equipment Manufacturers, Service Providers, Enterprises
           and Governments to test their network equipments and existing network infrastructure on a
           wide variety of parameters. It is Global Company having head office at CALABASAS, California
-          and development centers at Romania and Kolkata, India. 
+          and development centers at Romania and Kolkata, India. [The company website](https://www.keysight.com/in/en/cmp/2020/network-visibility-network-test.html).
 
             - Team with which worked on:- IxNetwork Team (Research & Development) NTS Domain
             - Role & Responsibilities:-  Testing of Protocols( L2-L3 protocol:) Intermediate Systems
@@ -136,17 +136,16 @@ experiences:
                 - Writing test script procedures for new features 
                 - Software Development Network (SDN)
                 - Scripting Language:- TCL-TK, Python, Perl.
-      - role: Senior Software Engineer
+            - My Automation scripts are as follows:
+                - [TCL-TK Script 1](https://www.openixia.com/apis/getFileContents//OpenIxiaGit/IxNetwork/LowLevelApi/NGPF/Tcl/SDN/ISIS-SRLG-LINK-PROTECTION/ISIS_SRLG_LINKPROTECTION_Sample_Script.tcl).
+                - [PYTHON Script 2](https://openixia.amzn.keysight.com/apis/getFileContents//OpenIxiaGit/IxNetwork/LowLevelApi/NGPF/Python/SDN/ISIS-SR-MS/ISIS_SR_MS_Sample_Script.py).
+                - [PERL   Script 3]( https://www.openixia.com/apis/getFileContents//OpenIxiaGit/IxNetwork/LowLevelApi/NGPF/Perl/SDN/ISIS-SR-MS/ISIS_SR_MS_Sample_Script.pl).
+      - role: M.Tech Internship
         time: 2014 - 2015
-        company: Google, London
+        company: Indian Statistical Institute, Kolkata
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          I have done my Masters Project on Information Retrieval using Machine Learning under the supervision of [Prof. Mandar Mitra](https://www.isical.ac.in/~mandar/).
+            
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
