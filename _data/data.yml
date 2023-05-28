@@ -59,7 +59,7 @@ career-profile:
      interested in designing of provably secure "Non-Malleable Codes", security 
      analysis of "Symmetric Ciphers", "Private Set Intersection" and it's 
      application in "Secure Multiparty Computation" etc. My unique orchid id is 
-     0000-0002-9328-3673.
+     "https://orcid.org/0000-0002-9328-3673".
       
 education:
     title: Education
@@ -124,18 +124,18 @@ experiences:
           and development centers at Romania and Kolkata, India. 
 
             - Team with which worked on:- IxNetwork Team (Research & Development) NTS Domain
-            - Role & Responsibilities:- • Testing of Protocols( L2-L3 protocol:) Intermediate Systems
+            - Role & Responsibilities:-  Testing of Protocols( L2-L3 protocol:) Intermediate Systems
               to Intermediate Systems routing protocol (IS-IS, IS-IS SRv6), Open Shortest Path Protocol(OSPF),
               Border Gateway Protocol(BGP), ISIS ( with Segment Routing) with Cisco devices(switches and routers),
               end-to-end traffic generation and its analysis.
-                • BGP Flowspec
-                • L2, L3 VPN over Segment Routing 
-                • Reproduction of Customer issues.
-                • TCL Automation 
-                • Preparing Test Plans
-                • Writing test script procedures for new features 
-                • Software Development Network (SDN)
-                • Scripting Language :- TCL-TK, Python, Perl.
+                - BGP Flowspec
+                - L2, L3 VPN over Segment Routing 
+                - Reproduction of Customer issues.
+                - TCL Automation 
+                - Preparing Test Plans
+                - Writing test script procedures for new features 
+                - Software Development Network (SDN)
+                - Scripting Language:- TCL-TK, Python, Perl.
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
@@ -231,7 +231,7 @@ publications:
         
       - title: "Practical Non-malleable Codes from Symmetric-Key Primitives in 2-Split-State Model"
         link: "https://link.springer.com/chapter/10.1007/978-3-031-20917-8_18"
-        authors: Anit Kumar Ghosal,Satrajit Ghosh, Dipanwita Roychowdhury 
+        authors: Anit Kumar Ghosal, Satrajit Ghosh, Dipanwita Roychowdhury 
         conference: "International Conference on Provable Security, November 2022"
         
         
