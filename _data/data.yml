@@ -223,6 +223,27 @@ oss:
         tagline: "Ranked 1st in the BSc Honours in  Computer Science  at Scottish Church College"
 
       
+oss:
+    title: Workshop and Talks attended
+    intro: >
+      
+    contributions:
+    
+    
+      - title: 
+        link: "https://www.niser.ac.in/~aritra/RTA23"
+        tagline: "Recent Trends in Algorithms July 26-28, 2023"
+    
+      - title: 
+        link: "https://www.isical.ac.in/~rcbose/blockchain2017/#schedule"
+        tagline: "BLOCKCHAIN 2017"
+        
+      - title: 
+        link: "https://www.csa.iisc.ac.in/~cris/MPCWorkshop/"
+        tagline: "Secure Multi-Party Computation: Theory and Practice 2020"
+    
+     
+       
 
 publications:
     title: Publications
