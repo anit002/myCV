@@ -196,17 +196,33 @@ oss:
     intro: >
       
     contributions:
+    
+    
       - title: 
-        link: ""
-        tagline: "Ranked 5th in the Bsc Honours Examination of Computer Science under University of Calcutta"
-
+        link: "#"
+        tagline: "MHRD Institute Fellowship at IIT Kharagpur for 5 yerars PhD"
+    
       - title: 
-        link: ""
-        tagline: "Ranked 1st in the Bsc Honours Examination under Computer Science Department at Scottish Cbhurch College"
-
+        link: "#"
+        tagline: "Qualified UGC-NET for Assistant Professor"
+    
+      - title: 
+        link: "#"
+        tagline: "Ranked 1st in the West Bengal Public Service Examination for faculty recruitment"
+        
       - title: 
         link: "#"
         tagline: "Ranked 6th in the BTech in computer Science & Engineering   under University of Calcutta "
+        
+      - title: 
+        link: ""
+        tagline: "Ranked 5th in the Bsc Honours  under University of Calcutta"
+
+      - title: 
+        link: ""
+        tagline: "Ranked 1st in the Bsc Honours in  Computer Science  at Scottish Cbhurch College"
+
+      
 
 publications:
     title: Publications
