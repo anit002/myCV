@@ -192,21 +192,19 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-    title: OSS Contributions
+    title: Awards and Achievements
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Ranked 5^{th} in the Bsc Honours Examination of Computer Science under University of Calcutta 
+        link: ""
+        tagline: ""
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Ranked 1^{st} in the Bsc Honours Examination under Computer Science Department at Scottish Cbhurch College
+        link: ""
+        tagline: ""
 
-      - title: Delta
+      - title: Ranked 6^{th} in the BTech in computer Science & Engineering   under University of Calcutta 
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
