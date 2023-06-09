@@ -170,6 +170,10 @@ projects:
       - title: RTA
         link: "https://www.niser.ac.in/~aritra/RTA23"
         tagline: "Recent Trends in Algorithms, July 26-28, 2023"
+        
+      - title: CYPTO WEBINAR
+        link: "https://www.isical.ac.in/~mridul/workshop/index.html"
+        tagline: "International Crypto-Webinar, August 26-30, 2020 "
 
       - title: MPC
         link: "https://www.csa.iisc.ac.in/~cris/MPCWorkshop/"
