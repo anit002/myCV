@@ -172,15 +172,15 @@ projects:
     intro: >
       
     assignments:
-      - title: 
+      - title: RTA
         link: "https://www.niser.ac.in/~aritra/RTA23"
         tagline: "Recent Trends in Algorithms July 26-28, 2023"
 
-      - title: 
+      - title: MPC
         link: "https://www.csa.iisc.ac.in/~cris/MPCWorkshop/"
         tagline: "Secure Multi-Party Computation: Theory and Practice 2020"
         
-      - title: 
+      - title: BLOCKCHAIN
         link: "https://www.isical.ac.in/~rcbose/blockchain2017/#schedule"
         tagline: "BLOCKCHAIN 2017"
 
