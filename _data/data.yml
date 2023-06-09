@@ -164,32 +164,27 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
+            
+       
+    
 projects:
-    title: Projects
+    title:  
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: 
+        link: "https://www.niser.ac.in/~aritra/RTA23"
+        tagline: "Recent Trends in Algorithms July 26-28, 2023"
 
       - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        link: https://www.csa.iisc.ac.in/~cris/MPCWorkshop/"
+        tagline: "Secure Multi-Party Computation: Theory and Practice 2020"
+        
+      - title: 
+        link: "https://www.isical.ac.in/~rcbose/blockchain2017/#schedule"
+        tagline: "BLOCKCHAIN 2017"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    
 
 oss:
     title: Awards and Achievements
@@ -223,24 +218,7 @@ oss:
         tagline: "Ranked 1st in the BSc Honours in  Computer Science  at Scottish Church College"
 
       
-oss1:
-    title: Workshop and Talks attended
-    intro: >
-      
-    contributions:
-    
-    
-      - title: 
-        link: "https://www.niser.ac.in/~aritra/RTA23"
-        tagline: "Recent Trends in Algorithms July 26-28, 2023"
-    
-      - title: 
-        link: "https://www.isical.ac.in/~rcbose/blockchain2017/#schedule"
-        tagline: "BLOCKCHAIN 2017"
-        
-      - title: 
-        link: "https://www.csa.iisc.ac.in/~cris/MPCWorkshop/"
-        tagline: "Secure Multi-Party Computation: Theory and Practice 2020"
+
     
      
        
