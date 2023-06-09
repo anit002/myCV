@@ -222,25 +222,25 @@ publications:
 
       - title: "Continuously Non-malleable Codes from Authenticated Encryptions in 2-Split-State Model"
         link: "https://link.springer.com/chapter/10.1007/978-981-99-2264-2_3"
-        authors:  Anit Kumar Ghosal, Dipanwita Roychowdhury 
+        authors:  Anit Kumar Ghosal, Dipanwita Roychowdhury (http://www.facweb.iitkgp.ac.in/~drc/)
         conference: "International Conference on Applications and Techniques in Information Security, December 2022"
 
       - title: "Non-malleable Codes from Authenticated Encryption in Split-State Model"
         link: "https://link.springer.com/chapter/10.1007/978-981-99-2264-2_2"
-        authors: Anit Kumar Ghosal, Dipanwita Roychowdhury 
+        authors: Anit Kumar Ghosal, Dipanwita Roychowdhury (http://www.facweb.iitkgp.ac.in/~drc/)
         conference: "International Conference on Applications and Techniques in Information Security, December 2022"
         
       - title: "Strengthening the Security of AES Against Differential Fault Attack"
         link: "https://link.springer.com/chapter/10.1007/978-3-031-23020-2_41"
-        authors: Anit Kumar Ghosal, Dipanwita Roychowdhury 
+        authors: Anit Kumar Ghosal, Dipanwita Roychowdhury (http://www.facweb.iitkgp.ac.in/~drc/)
         conference: "International Conference on Network and System Security, December 2022"
         
       - title: "Practical Non-malleable Codes from Symmetric-Key Primitives in 2-Split-State Model"
         link: "https://link.springer.com/chapter/10.1007/978-3-031-20917-8_18"
-        authors: Anit Kumar Ghosal, Satrajit Ghosh, Dipanwita Roychowdhury 
+        authors: Anit Kumar Ghosal, Satrajit Ghosh (https://satcrypt.github.io/#), Dipanwita Roychowdhury (http://www.facweb.iitkgp.ac.in/~drc/) 
         conference: "International Conference on Provable Security, November 2022"
         
-        
+      
 
 skills:
     title: Skills &amp; Proficiency
