@@ -167,7 +167,7 @@ experiences:
             
        
     
-projects:
+projects: Workshops and Talks Attended
     title:  
     intro: >
       
@@ -176,8 +176,8 @@ projects:
         link: "https://www.niser.ac.in/~aritra/RTA23"
         tagline: "Recent Trends in Algorithms July 26-28, 2023"
 
-      - title: Tempo
-        link: https://www.csa.iisc.ac.in/~cris/MPCWorkshop/"
+      - title: 
+        link: "https://www.csa.iisc.ac.in/~cris/MPCWorkshop/"
         tagline: "Secure Multi-Party Computation: Theory and Practice 2020"
         
       - title: 
