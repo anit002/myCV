@@ -12,8 +12,8 @@ sidebar:
     avatar: anit.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email1: anit.ghosal@gmail.com
-    email2: AGHOSAL@iitkgp.ac.in
+    email: anit.ghosal@gmail.com
+    
     phone: 91-9038499213
     timezone: Indian Standard Time 
     citizenship: Indian
