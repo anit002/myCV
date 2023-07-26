@@ -115,7 +115,13 @@ experiences:
     title: Experiences
     info:
       - role: Senior Research Fellow
-        time: 2017 - 2024
+        time: 2019 - 2024
+        company: Indian Institute of Techology Kharagpur, Kharagpur, West Bengal
+        details: |
+          Currently, I am pursuing my research under the supervision of [Dr. Satrajit Ghosh](https://satcrypt.github.io/#) and [Dr. Dipanwita
+          Roy Chowdhury](http://www.facweb.iitkgp.ac.in/~drc/).
+      - role: Junior Research Fellow
+        time: 2017 - 2019
         company: Indian Institute of Techology Kharagpur, Kharagpur, West Bengal
         details: |
           Currently, I am pursuing my research under the supervision of [Dr. Satrajit Ghosh](https://satcrypt.github.io/#) and [Dr. Dipanwita
