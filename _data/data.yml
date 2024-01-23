@@ -237,7 +237,11 @@ publications:
       The list of publications are described from most recent to older as follows:
     papers:
 
-      
+      - title: "Continuous Version of Non-malleable Codes  from Authenticated Encryption"
+        link: "https://link.springer.com/conference/acisp"
+        authors: Anit Kumar Ghosal, Dipanwita Roychowdhury 
+        conference: "Australasian Conference on Information Security and Privacy (ACISP) 2024, July 2024"
+        
       - title: "Non-malleable Codes from Leakage Resilient Cryptographic Primitives"
         link: "https://link.springer.com/conference/cisc"
         authors: Anit Kumar Ghosal, Dipanwita Roychowdhury 
