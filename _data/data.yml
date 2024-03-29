@@ -120,8 +120,8 @@ experiences:
         time: 2019 - 2024
         company: Indian Institute of Techology Kharagpur, Kharagpur, West Bengal
         details: |
-          Currently, I am pursuing my research under the supervision of [Dr. Satrajit Ghosh](https://satcrypt.github.io/#) and [Dr. Dipanwita
-          Roy Chowdhury](http://www.facweb.iitkgp.ac.in/~drc/). I have worked in the area of Tampering Resilient Cryptography and design some provabily secure Non-malleable Codes (NMCs).
+          Currently, I am pursuing my research under the supervision of  [Dr. Dipanwita
+          Roy Chowdhury](http://www.facweb.iitkgp.ac.in/~drc/) and [Dr. Satrajit Ghosh](https://satcrypt.github.io/#). I have worked in the area of Tampering Resilient Cryptography and design some provabily secure Non-malleable Codes (NMCs).
            Apart from that I have started how to reduce the computation and communication complexity of 2-party Private Set Intersection Protocol in an efficient way.
       - role: Junior Research Fellow
         time: 2017 - 2019
@@ -204,10 +204,10 @@ oss:
         
       - title: 
         link: "#"
-        tagline: "Selected for Asst. Prof. in Govt. Eng. Colg. through  West Bengal Public Service Examination"
+        tagline: "Selected as an Asst. Prof. in Govt. Eng. College through  WBPSC"
       - title: 
         link: "#"
-        tagline: "Selected for Lect. in Govt. Poly. Colg. through  West Bengal Public Service Examination"
+        tagline: "Selected as an Lect. in Govt. Polyecnic College through  WBPSC"
       - title: 
         link: "#"
         tagline: "MHRD Institute PhD Fellowship at IIT Kharagpur for 5 years"
@@ -218,7 +218,7 @@ oss:
     
       - title: 
         link: "#"
-        tagline: "Ranked 1<sup>st</sup>  in the West Bengal Public Service Examination for Faculty Recruitment"
+        tagline: "Ranked 1<sup>st</sup>  in the West Bengal Public Service Examination(WBPSC) for Faculty Recruitment"
         
       - title: 
         link: "#"
