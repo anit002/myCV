@@ -69,7 +69,7 @@ education:
     info:
       - degree: PhD in Crytography and Security
         university: Indian Institute of Techology Kharagpur
-        time: 2017 - 2023
+        time: 2017 - 2024
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -178,6 +178,10 @@ projects:
       
     assignments:
       - title: RTA
+        link: "https://cse.iitkgp.ac.in/~palash/Workshops/2024RTA.html"
+        tagline: "Recent Trends in Algorithms, July 1-3, 2024
+        
+      - title: RTA
         link: "https://www.niser.ac.in/~aritra/RTA23"
         tagline: "Recent Trends in Algorithms, July 26-28, 2023"
         
@@ -201,21 +205,21 @@ oss:
       
     contributions:
     
-        
-      - title: 
-        link: "#"
-        tagline: "Selected as an Asst. Prof. in Govt. Eng. College through  WBPSC"
-      - title: 
-        link: "#"
-        tagline: "Selected as an Lect. in Govt. Polyecnic College through  WBPSC"
-      - title: 
+       - title: 
         link: "#"
         tagline: "MHRD Institute PhD Fellowship at IIT Kharagpur for 5 years"
     
       - title: 
         link: "#"
         tagline: "Qualified UGC-NET for Assistant Professor"
-    
+     
+      - title: 
+        link: "#"
+        tagline: "Selected as an Asst. Prof. in Govt. Eng. College through  WBPSC"
+      - title: 
+        link: "#"
+        tagline: "Selected as an Lect. in Govt. Polytecnic College through  WBPSC"
+      
       - title: 
         link: "#"
         tagline: "Ranked 1<sup>st</sup>  in the West Bengal Public Service Examination (WBPSC)"
