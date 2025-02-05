@@ -177,7 +177,7 @@ projects:
     intro: >
       
     assignments:
-       - title: ATTIC
+      - title: ATTIC
         link: "https://sites.google.com/view/atticworkshop/home"
         tagline: "Workshop on Advanced Topics in Trusted Information Computing, February 6-8, 2025"
     
