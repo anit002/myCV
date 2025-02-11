@@ -177,6 +177,10 @@ projects:
     intro: >
       
     assignments:
+      - title: TPMPC
+        link: "https://www.multipartycomputation.com/tpmpc-2025#h.m2cv7nr4shko"
+        tagline: "Theory and Practice of Multi-Party Computation Workshop, March 3-6, 2025"
+      
       - title: ATTIC
         link: "https://sites.google.com/view/atticworkshop/home"
         tagline: "Advanced Topics in Trusted Information Computing, February 6-8, 2025"
