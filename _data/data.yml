@@ -267,7 +267,10 @@ publications:
       - title: "Continuous Version of Non-malleable Codes  from Authenticated Encryption"
         link: "https://link.springer.com/chapter/10.1007/978-981-97-5025-2_17"
         authors: Anit Kumar Ghosal, Dipanwita Roychowdhury 
-        conference: "Australasian Conference on Information Security and Privacy (ACISP) 2024, July 2024"
+        conference: "Australasian Conference on Information Security and Privacy <svg width="1in" height="1in"> <g class="text" style="font-style:plain; font-family:Dialog; font-size:14pt;
+             font-weight:bold; fill:#0000ff">
+    ACISP 2024!
+   </g> </svg>, July 2024"
         
       - title: "Non-malleable Codes from Leakage Resilient Cryptographic Primitives"
         link: "https://link.springer.com/chapter/10.1007/978-981-97-0945-8_15"
