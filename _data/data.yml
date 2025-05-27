@@ -267,7 +267,7 @@ publications:
       - title: "Continuous Version of Non-malleable Codes  from Authenticated Encryption"
         link: "https://link.springer.com/chapter/10.1007/978-981-97-5025-2_17"
         authors: Anit Kumar Ghosal, Dipanwita Roychowdhury 
-        conference: "Australasian Conference on Information Security and Privacy <h2 style="color:DarkCyan;">How to set text color using HTML color names?</h2>, July 2024"
+        conference: "Australasian Conference on Information Security and Privacy (ACISP), July 2024"
         
       - title: "Non-malleable Codes from Leakage Resilient Cryptographic Primitives"
         link: "https://link.springer.com/chapter/10.1007/978-981-97-0945-8_15"
