@@ -134,12 +134,11 @@ experiences:
         time: 2015 - 2017
         company:  Keysight Technologies formerly known as IXIA, Kolkata, West Bengal
         details: |
-          Keysight (also known as IXIA) is a leading provider of performance test systems for IP-based infrastructure
+          [Keysight (also known as IXIA)](https://www.keysight.com/in/en/cmp/2020/network-visibility-network-test.html) is a leading provider of performance test systems for IP-based infrastructure
           and services providing service to Equipment Manufacturers, Service Providers, Enterprises
           and Governments to test their network equipments and existing network infrastructure on a
           wide variety of parameters. It is Global Company having head office at CALABASAS, California
-          and development centers at Romania and Kolkata, India. [The company website](https://www.keysight.com/in/en/cmp/2020/network-visibility-network-test.html).
-
+          and development centers at Romania and Kolkata, India.
             - Team with which worked on:- IxNetwork Team (Research & Development) NTS Domain
             - Role & Responsibilities:-  Testing of L2-L3 protocol Protocols such as Intermediate Systems
               to Intermediate Systems routing protocol (IS-IS, IS-IS SRv6), Open Shortest Path Protocol(OSPF),
