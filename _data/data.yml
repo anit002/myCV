@@ -59,7 +59,7 @@ career-profile:
      [Indian Institute of Technology (IIT) Kharagpur](https://www.iitkgp.ac.in/)  under the supervison of
       [Dr. Dipanwita Roy Chowdhury](http://www.facweb.iitkgp.ac.in/~drc/) and [Dr. Satrajit Ghosh](https://satcrypt.github.io/#). My research interest 
      focuses on many aspects of Cryptography and Security. Specifically, I am 
-     interested in designing of provably secure "Non-Malleable Codes", security 
+     interested in designing of provably secure <b> "Non-Malleable Codes"</b>, security 
      analysis of <b> "Symmetric Ciphers", "Private Set Intersection", and it's 
      application in "Secure Multiparty Computation", etc </b>. My unique orchid id is 
      [0000-0002-9328-3673](https://orcid.org/0000-0002-9328-3673) and the dblp computer science bibliography is [dblp](https://dblp.org/pid/332/5647.html). 
@@ -276,7 +276,7 @@ publications:
       - title: "Non-malleable Codes from Leakage Resilient Cryptographic Primitives"
         link: "https://link.springer.com/chapter/10.1007/978-981-97-0945-8_15"
         authors: Anit Kumar Ghosal, Dipanwita Roychowdhury 
-        conference: "International Conference on Information Security and Cryptology (<b>Inscrypt</b>) 2023, December 2023"
+        conference: "International Conference on Information Security and Cryptology (<b>Inscrypt</b>), December 2023"
         
       - title: "Continuously Non-malleable Codes from Block Ciphers in 2-Split-State Model"
         link: "https://cybersecurity.springeropen.com/articles/10.1186/s42400-023-00152-1"
@@ -291,27 +291,27 @@ publications:
       - title: "A Better MixColumns Matrix to AES Against Differential Fault Analysis Attack"
         link: "https://link.springer.com/chapter/10.1007/978-981-99-2264-2_5"
         authors: Anit Kumar Ghosal
-        conference: "International Conference on Applications and Techniques in Information Security (<b>ATIS</b>) 2022, December 2022"
+        conference: "International Conference on Applications and Techniques in Information Security (<b>ATIS</b>), December 2022"
 
       - title: "Continuously Non-malleable Codes from Authenticated Encryptions in 2-Split-State Model"
         link: "https://link.springer.com/chapter/10.1007/978-981-99-2264-2_3"
         authors:  Anit Kumar Ghosal, Dipanwita Roychowdhury 
-        conference: "International Conference on Applications and Techniques in Information Security (<b>ATIS</b>) 2022, December 2022"
+        conference: "International Conference on Applications and Techniques in Information Security (<b>ATIS</b>), December 2022"
 
       - title: "Non-malleable Codes from Authenticated Encryption in Split-State Model"
         link: "https://link.springer.com/chapter/10.1007/978-981-99-2264-2_2"
         authors: Anit Kumar Ghosal, Dipanwita Roychowdhury 
-        conference: "International Conference on Applications and Techniques in Information Security (<b>ATIS</b>) 2022, December 2022"
+        conference: "International Conference on Applications and Techniques in Information Security (<b>ATIS</b>), December 2022"
         
       - title: "Strengthening the Security of AES Against Differential Fault Attack"
         link: "https://link.springer.com/chapter/10.1007/978-3-031-23020-2_41"
         authors: Anit Kumar Ghosal, Dipanwita Roychowdhury
-        conference: "International Conference on Network and System Security (<b>NSS</b>) 2022, December 2022"
+        conference: "International Conference on Network and System Security (<b>NSS</b>), December 2022"
         
       - title: "Practical Non-malleable Codes from Symmetric-Key Primitives in 2-Split-State Model"
         link: "https://link.springer.com/chapter/10.1007/978-3-031-20917-8_18"
         authors: Anit Kumar Ghosal, Satrajit Ghosh, Dipanwita Roychowdhury 
-        conference: "International Conference on Provable Security (<b>ProvSec</b>) 2022, November 2022"
+        conference: "International Conference on Provable Security (<b>ProvSec</b>), November 2022"
         
       
 
