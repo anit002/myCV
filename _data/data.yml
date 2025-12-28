@@ -271,11 +271,11 @@ publications:
       - title: "Continuous Version of Non-malleable Codes  from Authenticated Encryption"
         link: "https://link.springer.com/chapter/10.1007/978-981-97-5025-2_17"
         authors: Anit Kumar Ghosal, Dipanwita Roychowdhury 
-        conference: "Australasian Conference on Information Security and Privacy (<b>ACISP</b>), July 2024"
+        conference: "Australasian Conference on Information Security and Privacy ([<b>ACISP</b>](https://link.springer.com/book/10.1007/978-981-97-5025-2)), July 2024"
         
       - title: "Non-malleable Codes from Leakage Resilient Cryptographic Primitives"
         link: "https://link.springer.com/chapter/10.1007/978-981-97-0945-8_15"
-        authors: Anit Kumar Ghosal, [Dipanwita Roy Chowdhury](http://www.facweb.iitkgp.ac.in/~drc/) 
+        authors: Anit Kumar Ghosal, Dipanwita Roychowdhury
         conference: "International Conference on Information Security and Cryptology (<b>Inscrypt</b>), December 2023"
         
       - title: "Continuously Non-malleable Codes from Block Ciphers in 2-Split-State Model"
