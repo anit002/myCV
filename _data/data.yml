@@ -275,7 +275,7 @@ publications:
         
       - title: "Non-malleable Codes from Leakage Resilient Cryptographic Primitives"
         link: "https://link.springer.com/chapter/10.1007/978-981-97-0945-8_15"
-        authors: Anit Kumar Ghosal, Dipanwita Roychowdhury 
+        authors: Anit Kumar Ghosal, [Dipanwita Roy Chowdhury](http://www.facweb.iitkgp.ac.in/~drc/) 
         conference: "International Conference on Information Security and Cryptology (<b>Inscrypt</b>), December 2023"
         
       - title: "Continuously Non-malleable Codes from Block Ciphers in 2-Split-State Model"
