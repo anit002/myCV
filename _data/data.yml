@@ -271,7 +271,7 @@ publications:
       - title: "Unbalanced Secure Computation Protocol from Homomorphic Encryption"
         link: "https://link.springer.com/conference/atis"
         authors: Anit Kumar Ghosal 
-        conference: International Conference on Applications and Techniques in Information Security (<b>[ATIS](https://link.springer.com/conference/atis)</b>), December 2025"
+        conference: [International Conference on Applications and Techniques in Information Security](https://link.springer.com/conference/atis) (<b>ATIS</b>), December 2025"
         
       - title: "Continuous Version of Non-malleable Codes  from Authenticated Encryption"
         link: "https://link.springer.com/chapter/10.1007/978-981-97-5025-2_17"
