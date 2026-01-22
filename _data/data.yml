@@ -171,6 +171,66 @@ experiences:
             
        
     
+
+       
+
+publications:
+    title: Publications
+    intro: |
+      The list of publications are described from most recent to older as follows:
+    papers:
+    
+      - title: "Unbalanced Secure Computation Protocol from Homomorphic Encryption"
+        link: "https://link.springer.com/conference/atis"
+        authors: Anit Kumar Ghosal 
+        conference: "International Conference on Applications and Techniques in Information Security (<b>ATIS</b>), December 2025"
+        
+      - title: "Continuous Version of Non-malleable Codes  from Authenticated Encryption"
+        link: "https://link.springer.com/chapter/10.1007/978-981-97-5025-2_17"
+        authors: Anit Kumar Ghosal, Dipanwita Roychowdhury 
+        conference: "Australasian Conference on Information Security and Privacy (<b>ACISP</b>), July 2024"
+        
+      - title: "Non-malleable Codes from Leakage Resilient Cryptographic Primitives"
+        link: "https://link.springer.com/chapter/10.1007/978-981-97-0945-8_15"
+        authors: Anit Kumar Ghosal, Dipanwita Roychowdhury
+        conference: "International Conference on Information Security and Cryptology (<b>Inscrypt</b>), December 2023"
+        
+      - title: "Continuously Non-malleable Codes from Block Ciphers in 2-Split-State Model"
+        link: "https://cybersecurity.springeropen.com/articles/10.1186/s42400-023-00152-1"
+        authors: Anit Kumar Ghosal, Dipanwita Roychowdhury 
+        conference: "<b>Cybersecurity Springer Journal</b>, October 2023"
+        
+      - title: "Differential Fault Analysis Attack Tolerant Hardware Implementation of AES"
+        link: "https://link.springer.com/article/10.1007/s11227-023-05632-2"
+        authors: Anit Kumar Ghosal, Amit Sardar,  Dipanwita Roychowdhury 
+        conference: "<b>The Journal of Supercomputing</b>, Springer Journal, September 2023"
+        
+      - title: "A Better MixColumns Matrix to AES Against Differential Fault Analysis Attack"
+        link: "https://link.springer.com/chapter/10.1007/978-981-99-2264-2_5"
+        authors: Anit Kumar Ghosal
+        conference: "International Conference on Applications and Techniques in Information Security (<b>ATIS</b>), December 2022"
+
+      - title: "Continuously Non-malleable Codes from Authenticated Encryptions in 2-Split-State Model"
+        link: "https://link.springer.com/chapter/10.1007/978-981-99-2264-2_3"
+        authors:  Anit Kumar Ghosal, Dipanwita Roychowdhury 
+        conference: "International Conference on Applications and Techniques in Information Security (<b>ATIS</b>), December 2022"
+
+      - title: "Non-malleable Codes from Authenticated Encryption in Split-State Model"
+        link: "https://link.springer.com/chapter/10.1007/978-981-99-2264-2_2"
+        authors: Anit Kumar Ghosal, Dipanwita Roychowdhury 
+        conference: "International Conference on Applications and Techniques in Information Security (<b>ATIS</b>), December 2022"
+        
+      - title: "Strengthening the Security of AES Against Differential Fault Attack"
+        link: "https://link.springer.com/chapter/10.1007/978-3-031-23020-2_41"
+        authors: Anit Kumar Ghosal, Dipanwita Roychowdhury
+        conference: "International Conference on Network and System Security (<b>NSS</b>), December 2022"
+        
+      - title: "Practical Non-malleable Codes from Symmetric-Key Primitives in 2-Split-State Model"
+        link: "https://link.springer.com/chapter/10.1007/978-3-031-20917-8_18"
+        authors: Anit Kumar Ghosal, Satrajit Ghosh, Dipanwita Roychowdhury 
+        conference: "International Conference on Provable Security (<b>ProvSec</b>), November 2022"
+        
+      
 projects: 
     title: Workshops and Talks Attended 
     intro: >
@@ -260,66 +320,6 @@ oss:
 
     
      
-       
-
-publications:
-    title: Publications
-    intro: |
-      The list of publications are described from most recent to older as follows:
-    papers:
-    
-      - title: "Unbalanced Secure Computation Protocol from Homomorphic Encryption"
-        link: "https://link.springer.com/conference/atis"
-        authors: Anit Kumar Ghosal 
-        conference: "International Conference on Applications and Techniques in Information Security (<b>ATIS</b>), December 2025"
-        
-      - title: "Continuous Version of Non-malleable Codes  from Authenticated Encryption"
-        link: "https://link.springer.com/chapter/10.1007/978-981-97-5025-2_17"
-        authors: Anit Kumar Ghosal, Dipanwita Roychowdhury 
-        conference: "Australasian Conference on Information Security and Privacy (<b>ACISP</b>), July 2024"
-        
-      - title: "Non-malleable Codes from Leakage Resilient Cryptographic Primitives"
-        link: "https://link.springer.com/chapter/10.1007/978-981-97-0945-8_15"
-        authors: Anit Kumar Ghosal, Dipanwita Roychowdhury
-        conference: "International Conference on Information Security and Cryptology (<b>Inscrypt</b>), December 2023"
-        
-      - title: "Continuously Non-malleable Codes from Block Ciphers in 2-Split-State Model"
-        link: "https://cybersecurity.springeropen.com/articles/10.1186/s42400-023-00152-1"
-        authors: Anit Kumar Ghosal, Dipanwita Roychowdhury 
-        conference: "<b>Cybersecurity Springer Journal</b>, October 2023"
-        
-      - title: "Differential Fault Analysis Attack Tolerant Hardware Implementation of AES"
-        link: "https://link.springer.com/article/10.1007/s11227-023-05632-2"
-        authors: Anit Kumar Ghosal, Amit Sardar,  Dipanwita Roychowdhury 
-        conference: "<b>The Journal of Supercomputing</b>, Springer Journal, September 2023"
-        
-      - title: "A Better MixColumns Matrix to AES Against Differential Fault Analysis Attack"
-        link: "https://link.springer.com/chapter/10.1007/978-981-99-2264-2_5"
-        authors: Anit Kumar Ghosal
-        conference: "International Conference on Applications and Techniques in Information Security (<b>ATIS</b>), December 2022"
-
-      - title: "Continuously Non-malleable Codes from Authenticated Encryptions in 2-Split-State Model"
-        link: "https://link.springer.com/chapter/10.1007/978-981-99-2264-2_3"
-        authors:  Anit Kumar Ghosal, Dipanwita Roychowdhury 
-        conference: "International Conference on Applications and Techniques in Information Security (<b>ATIS</b>), December 2022"
-
-      - title: "Non-malleable Codes from Authenticated Encryption in Split-State Model"
-        link: "https://link.springer.com/chapter/10.1007/978-981-99-2264-2_2"
-        authors: Anit Kumar Ghosal, Dipanwita Roychowdhury 
-        conference: "International Conference on Applications and Techniques in Information Security (<b>ATIS</b>), December 2022"
-        
-      - title: "Strengthening the Security of AES Against Differential Fault Attack"
-        link: "https://link.springer.com/chapter/10.1007/978-3-031-23020-2_41"
-        authors: Anit Kumar Ghosal, Dipanwita Roychowdhury
-        conference: "International Conference on Network and System Security (<b>NSS</b>), December 2022"
-        
-      - title: "Practical Non-malleable Codes from Symmetric-Key Primitives in 2-Split-State Model"
-        link: "https://link.springer.com/chapter/10.1007/978-3-031-20917-8_18"
-        authors: Anit Kumar Ghosal, Satrajit Ghosh, Dipanwita Roychowdhury 
-        conference: "International Conference on Provable Security (<b>ProvSec</b>), November 2022"
-        
-      
-
 skills:
     title: Skills &amp; Proficiency
 
