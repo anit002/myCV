@@ -236,7 +236,11 @@ projects:
     intro: >
       
     assignments:
-
+    
+      - title: KOLKATA CRYPTO DAY II
+        link: "https://sites.google.com/view/kolkata-crypto-day-2/home"
+        tagline: "Kolkata Crypto Day II, January 31, 2026"
+        
       - title: SPACE
         link: "https://event.iitg.ac.in/space2025/"
         tagline: "Security, Privacy and Applied Cryptographic Engineering, December 16-20, 2025"
