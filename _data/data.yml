@@ -116,6 +116,12 @@ education:
 experiences:
     title: Experiences
     info:
+
+      - role: Research Collaborator
+        time: 2022 - 2026
+        company: Indian Statistical Institute, Kolkata, West Bengal
+        details: |
+         I have worked with [Dr. Mridul Nandi](https://isi.irins.org/profile/111472) and [Dr. Pratyay Mukherjee](https://pratyay.net/) on a research project focused on Private Set Intersection (PSI) protocols and FHE.
       - role: Senior Research Fellow
         time: 2019 - 2025
         company: Indian Institute of Techology Kharagpur, Kharagpur, West Bengal
